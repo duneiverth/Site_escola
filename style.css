@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.começo {
+      background-color: lightblue;
+      color: black;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      padding: 24px 0;
+    
+}
+.imagem-cabeçalho {
+        width: 20%;
+}
+.lista-um{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 26px;
+}
