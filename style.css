@@ -14,8 +14,9 @@
 .imagem-cabeçalho {
         width: 20%;
 }
-.lista-um{
+.item-um{
     display: inline-block;
-    margin: 0 16px;
+    margin: 0 20px;
     font-size: 26px;
+
 }
