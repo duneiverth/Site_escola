@@ -24,6 +24,7 @@
 
 .imagem-santo{
          width: 35%;
+         margin-left: 10%;
          
 }
 
@@ -39,10 +40,28 @@
 .colegio-div{
        width: 25%;
        font-family:Verdana, Geneva, Tahoma, sans-serif;
+       
 
 }
 
 .paragrafo{
      padding: 20px 0;
+
+}
+
+.imagem-professor{
+      width: 30%;
+      margin-left: 20%;
+} 
+
+.div-turmas{
+    display: inline-block;
+        justify-content:center;
+        align-items:center ;
+        padding: 20px 0; 
+}
+
+.turmas {
+    display: flex;
 
 }
