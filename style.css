@@ -3,20 +3,46 @@
     padding: 0;
 }
 .começo {
-      background-color: lightblue;
+      background-color: lightslategray;
       color: black;
       display: flex;
       justify-content: space-around;
       align-items: center;
-      padding: 24px 0;
-    
+      padding: 24px 0;    
 }
 .imagem-cabeçalho {
-        width: 20%;
+        width: 15%;
+        
 }
 .item-um{
     display: inline-block;
     margin: 0 20px;
-    font-size: 26px;
+    font-size: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.imagem-santo{
+         width: 35%;
+         
+}
+
+.colegio{
+        background-image: linear-gradient( lightslategray, white);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px 0; 
+    
+
+}
+.colegio-div{
+       width: 25%;
+       font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.paragrafo{
+     padding: 20px 0;
 
 }
