@@ -40,8 +40,7 @@
 .colegio-div{
        width: 25%;
        font-family:Verdana, Geneva, Tahoma, sans-serif;
-       
-
+    
 }
 
 .paragrafo{
@@ -50,8 +49,9 @@
 }
 
 .imagem-professor{
-      width: 30%;
+      width: 40%;
       margin-left: 20%;
+      margin-right: 15%;
 } 
 
 .div-turmas{
@@ -63,5 +63,51 @@
 
 .turmas {
     display: flex;
+    border-radius: 15px;
+
+}
+
+.texto-turmas{
+      font-size: 20px;
+      padding-bottom: 10px;
+      margin-left: 8px;
+
+}
+
+.lista-manhã{
+     font-size: 20px;
+     padding-bottom: 15px;
+}
+
+.lista-tarde{
+    font-size: 20px;
+     padding-bottom: 15px;
+    
+}
+.lista-noite{
+    font-size: 20px;
+     padding-bottom: 15px;
+}
+
+.descrição-turmas{
+    font-size: 20px;
+    color:blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-bottom: 5px;
+    margin-left: 8px;
+}
+.quais-turmas{
+    font-size: 20px;
+    padding-top: 10px;
+    margin-left: 8px;
+}
+
+.listas{
+        margin-left: 8px;
+        border-width: 3px 3px 3px 3px;
+        border-color: lightgreen;
+        border-style:solid;
+        margin: 10px;
+    
 
 }
